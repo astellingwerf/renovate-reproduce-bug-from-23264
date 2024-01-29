@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "styled-components": "^5.3.11"
+  },
+  "overrides": {
+    "express": {
+      "qs": ">=6.10.3"
+    },
+    "styled-components": {
+      "babel-traverse": ">=7.23.5"
+    }
+  }
+}
